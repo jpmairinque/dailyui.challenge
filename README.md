@@ -20,11 +20,12 @@ Daily Ui is a challenge in which you recieve a new interface design inspiration 
 
 ## 4 - Calculator
 
-![day004 calculator](https://user-images.githubusercontent.com/53411709/123557780-455a0f00-d769-11eb-9072-177a1d9dd214.png)
+![day004 calculator](https://user-images.githubusercontent.com/53411709/123558854-e5666700-d76e-11eb-803e-a6552fca8711.png)
 
 ## 5 - App Icon 
 
-![day005 appicon](https://user-images.githubusercontent.com/53411709/123557796-530f9480-d769-11eb-8232-b0975e597647.png)
+![day005 appicon](https://user-images.githubusercontent.com/53411709/123558815-a89a7000-d76e-11eb-98b2-0f4cb0c8ab0a.png)
+
 
 ## 6 - User Profile
 

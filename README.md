@@ -45,6 +45,11 @@ Daily Ui is a challenge in which you recieve a new interface design inspiration 
 
 ![day009 musicplayer](https://user-images.githubusercontent.com/53411709/123557911-eb0d7e00-d769-11eb-8a45-bac425a9dad5.png)
 
+## 10 - Social Share   
+
+![day010 socialshare](https://user-images.githubusercontent.com/53411709/123560607-ab4e9280-d779-11eb-8548-15a019e8f958.png)
+
+
 
 
 

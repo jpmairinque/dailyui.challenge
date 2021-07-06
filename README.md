@@ -49,6 +49,15 @@ Daily Ui is a challenge in which you recieve a new interface design inspiration 
 
 ![day010 socialshare](https://user-images.githubusercontent.com/53411709/123560607-ab4e9280-d779-11eb-8548-15a019e8f958.png)
 
+## 11 - Flash Message
+
+![day011 flashmessage](https://user-images.githubusercontent.com/53411709/124678023-198d0680-de98-11eb-98a6-101e7f0a19f4.png)
+
+## 12 - E-Commerce (single item)
+
+![day012 ecommerce single](https://user-images.githubusercontent.com/53411709/124678066-345f7b00-de98-11eb-8321-c70c4c13c670.png)
+
+
 
 
 

@@ -55,7 +55,7 @@ Daily Ui is a challenge in which you recieve a new interface design inspiration 
 
 ## 12 - E-Commerce (single item)
 
-![day012 ecommerce single](https://user-images.githubusercontent.com/53411709/124678066-345f7b00-de98-11eb-8321-c70c4c13c670.png)
+![day012 ecommerce single](https://user-images.githubusercontent.com/53411709/124780084-b2fbfd00-df18-11eb-8255-6e866bc059aa.png)
 
 
 

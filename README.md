@@ -4,6 +4,7 @@ Daily Ui is a challenge in which you recieve a new interface design inspiration 
 
 *// Daily UI é um desafio no qual você recebe uma nova indicação para construir uma interface todos os dias, durante 100 dias. Esse está sendo meu resultado =)*
 
+Designed in    <img align="center" alt="joao-Js"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 ## 1 - Sign Up Page
 
 ![day001 signup](https://user-images.githubusercontent.com/53411709/123557968-345dcd80-d76a-11eb-8daf-7294fbe8bc57.png)

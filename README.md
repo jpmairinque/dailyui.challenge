@@ -58,6 +58,14 @@ Daily Ui is a challenge in which you recieve a new interface design inspiration 
 
 ![day012 ecommerce single](https://user-images.githubusercontent.com/53411709/124780084-b2fbfd00-df18-11eb-8255-6e866bc059aa.png)
 
+## 13 - Messaging 
+
+![day013 messages](https://user-images.githubusercontent.com/53411709/126215003-b47cd3fd-0d66-44b2-9e80-b9da131fb91d.png)
+
+## 14 - Countdown
+![day014 countdown](https://user-images.githubusercontent.com/53411709/126215054-b7ac340d-8a56-4436-b104-ae4ffb2e8ac8.png)
+
+
 
 
 
